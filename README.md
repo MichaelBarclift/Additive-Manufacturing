@@ -3,6 +3,8 @@ A curated list of Additive Manufacturing literature and research papers related 
 
 ![test2](https://live.staticflickr.com/2857/9067742195_f63e0e2590_n_d.jpg) ![test](https://live.staticflickr.com/3954/15473347580_05222a2e23_n_d.jpg)
 
+Image Sources:
+
 "[Additive Manufacturing](https://www.flickr.com/photos/oakridgelab/9067742195/in/photolist-ePhxQF-2iQjkxE-2iQmr8j-24VgxbK-Trxh51-2exzRZK-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-Hgpusv-2dSQmpy-YFn4CQ-Emd16S-oFzWNQ-2dtvt4U-2iQm2ta-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-9NDvLH-pjuZbP-2dSS7S9-ePhvpH-ePhuYa-2iLvvHZ-ePtUFd-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-QPdTc6-Qc9KcH-9NGabs-9NEwpU-dV2siq-dV2t4S-Qc9Q34-DqSe9w-dUVTct-dV2qkU-dV2rXo-dUVKzk-9NKJWL-9NGBho-dUVSbp-9NH11D-CuJM7U-MsWaAr)"
 by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).
 
