@@ -13,7 +13,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 # Contents
 ## Laser Powder Bed Fusion
-- [Tutorials](#Tutorials)
+- [Start Here](#Start-Here)
 - [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
 - [Process Parameters](#Process-Parameters)
 - [Cost Modeling](#Cost-Modeling)
@@ -22,8 +22,11 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Qualification](#Qualification)
 - [Machine Learning](#Machine-Learning)
 
-## Tutorials
+## Start Here
+- [Additve Manufacturing Technologies](https://link.springer.com/book/10.1007/978-3-030-56127-7), Gibson et al., Springer 2021.
+- [Laser Materials Processing](https://link.springer.com/book/10.1007/978-1-84996-062-5), Steen and Mazumder, Springer 2010.
 - [Introduction to Additive Manufacturing](https://www.epma.com/epma-free-publications/product/introduction-to-additive-manufacturing-brochure), EPMA 2019.
+- [Additive Manufacturing Journal](https://www.sciencedirect.com/journal/additive-manufacturing)
 
 ## Design For Additive Manufacturing
 
