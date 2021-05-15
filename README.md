@@ -5,7 +5,7 @@ A curated list of Additive Manufacturing literature and research papers related 
 
 Image Sources:
 
-"[Additive Manufacturing](https://www.flickr.com/photos/oakridgelab/9067742195/in/photolist-ePhxQF-2iQjkxE-2iQmr8j-24VgxbK-Trxh51-2exzRZK-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-Hgpusv-2dSQmpy-YFn4CQ-Emd16S-oFzWNQ-2dtvt4U-2iQm2ta-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-9NDvLH-pjuZbP-2dSS7S9-ePhvpH-ePhuYa-2iLvvHZ-ePtUFd-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-QPdTc6-Qc9KcH-9NGabs-9NEwpU-dV2siq-dV2t4S-Qc9Q34-DqSe9w-dUVTct-dV2qkU-dV2rXo-dUVKzk-9NKJWL-9NGBho-dUVSbp-9NH11D-CuJM7U-MsWaAr)"
+"[Additive Manufacturing](https://www.flickr.com/photos/oakridgelab/9067742195/in/photolist-ePhxQF-2iQjkxE-2iQmr8j-24VgxbK-Trxh51-2exzRZK-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-Hgpusv-2dSQmpy-YFn4CQ-Emd16S-oFzWNQ-2dtvt4U-2iQm2ta-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-9NDvLH-pjuZbP-2dSS7S9-ePhvpH-ePhuYa-2iLvvHZ-ePtUFd-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-QPdTc6-Qc9KcH-9NGabs-9NEwpU-dV2siq-dV2t4S-Qc9Q34-DqSe9w-dUVTct-dV2qkU-dV2rXo-dUVKzk-9NKJWL-9NGBho-dUVSbp-9NH11D-CuJM7U-MsWaAr),"
 by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).
 
 
@@ -21,6 +21,12 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Qualification](#Qualification)
 
 # Design For Additive Manufacturing
+
+# Process Parameters
+-[Power–Velocity Process Design
+Charts for Powder Bed Additive
+Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
+
 # Qualification
 
 - [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, Michael, Optical Engineering 2019.
