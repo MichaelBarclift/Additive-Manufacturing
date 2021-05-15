@@ -28,9 +28,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 ## Design For Additive Manufacturing
 
 ## Process Parameters
-- [A dimensionless number for predicting universal processing parameter boundaries in metal powder bed additive manufacturing] (https://www.sciencedirect.com/science/article/pii/S2213846320301735?dgcid=rss_sd_all), Rankouhi et al., Manufacturing Letters 2021.
-
-- [Laser-metal interaction dynamics during additive manufacturing resolved by detection of thermally-induced electron emission](https://www.nature.com/articles/s43246-020-00094-y), DePond et al., Nature 2020.
+- [A dimensionless number for predicting universal processing parameter boundaries in metal powder bed additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2213846320301735?dgcid=rss_sd_all), Rankouhi et al., Manufacturing Letters 2021.
 
 - [Development of laser powder bed fusion and heat treatment parameters for additively manufactured Ni51.5Ti48.5 shape memory alloys](https://mountainscholar.org/bitstream/handle/11124/176316/Fuller_mines_0052N_12097.pdf?sequence=1&isAllowed=y), Fuller et al., Colorado School of Mines 2020.
 
@@ -39,7 +37,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
 
 - [SLM 125 SINGLE TRACK AND DENSITY CUBE CHARACTERIZATION FOR
-316L STAINLESS STEEL] (https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
+316L STAINLESS STEEL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
 
 - [Power–Velocity Process Design
 Charts for Powder Bed Additive
@@ -57,3 +55,5 @@ Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Pow
 in laser powder bed fusion additive manufacturing](https://link.springer.com/content/pdf/10.1007/s00170-021-06640-3.pdf), Liu et al., IJAMT 2021.
 
 - [Machine learning integrated design for additive manufacturing](https://link.springer.com/content/pdf/10.1007/s10845-020-01715-6.pdf), Jiang et al., JIM 2020.
+
+- [Laser-metal interaction dynamics during additive manufacturing resolved by detection of thermally-induced electron emission](https://www.nature.com/articles/s43246-020-00094-y), DePond et al., Nature 2020.
