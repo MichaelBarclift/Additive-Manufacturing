@@ -37,7 +37,7 @@ Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
 
 ## Qualification
-- [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, Michael, Optical Engineering 2019.
+- [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, M., Optical Engineering 2019.
 
 - [A Holistic Process-Flow from Concept to Validation for Additive Manufacturing of Light-Weight, Optimized, Metallic Components Suitable for Space Flight](https://www.researchgate.net/publication/313450327_A_Holistic_Process-Flow_from_Concept_to_Validation_for_Additive_Manufacturing_of_Light-Weight_Optimized_Metallic_Components_Suitable_for_Space_Flight), Orme et al., AIAA 2017.
 
