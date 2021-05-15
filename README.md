@@ -23,7 +23,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 # Design For Additive Manufacturing
 
 # Process Parameters
--[Power–Velocity Process Design
+- [Power–Velocity Process Design
 Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
 
