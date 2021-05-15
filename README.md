@@ -23,7 +23,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Machine Learning](#Machine-Learning)
 
 ## Tutorials
--[Introduction to Additive Manufacturing](https://www.epma.com/epma-free-publications/product/introduction-to-additive-manufacturing-brochure), EPMA 2019.
+- [Introduction to Additive Manufacturing](https://www.epma.com/epma-free-publications/product/introduction-to-additive-manufacturing-brochure), EPMA 2019.
 
 ## Design For Additive Manufacturing
 
