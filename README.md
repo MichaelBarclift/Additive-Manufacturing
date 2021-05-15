@@ -45,8 +45,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 - [An Open-Architecture Multi-Laser Research Platform for Acceleration of Large-Scale Additive Manufacturing (ALSAM)](https://utw10945.utweb.utexas.edu/sites/default/files/2019/002%20An%20Open-Architecture%20Multi-Laser%20Research%20Platform.pdf), Carter et al., SFF 2019.
 
-- [SLM 125 SINGLE TRACK AND DENSITY CUBE CHARACTERIZATION FOR
-316L STAINLESS STEEL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
+- [SLM 125 Single Track and Density Cube Characterization for 315L Stainless Steel](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
 
 - [Power–Velocity Process Design
 Charts for Powder Bed Additive
@@ -58,6 +57,9 @@ Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Pow
 - [Recommended Guidance for Certification of AM Component](https://www.aia-aerospace.org/report/certification-of-am-component/), AIA 2020.
 
 - [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, M., Optical Engineering 2019.
+
+- [Methodologies for Qualification of Additively
+Manufactured Aerospace Hardware](https://assets.cdn.thewebconsole.com/S3WEB8123/images/NASA.pdf), West et al., NASA 2019.
 
 - [A Holistic Process-Flow from Concept to Validation for Additive Manufacturing of Light-Weight, Optimized, Metallic Components Suitable for Space Flight](https://www.researchgate.net/publication/313450327_A_Holistic_Process-Flow_from_Concept_to_Validation_for_Additive_Manufacturing_of_Light-Weight_Optimized_Metallic_Components_Suitable_for_Space_Flight), Orme et al., AIAA 2017.
 
