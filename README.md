@@ -16,7 +16,6 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
 - [Process Parameters](#Process-Parameters)
 - [Cost Modeling](#Cost-Modeling)
-- [Topology Optimization](#Topology-Optimization)
 - [Heat Exchangers](#Heat-Exchangers)
 - [Qualification](#Qualification)
 - [Machine Learning](#Machine-Learning)
