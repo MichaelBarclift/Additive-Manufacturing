@@ -13,24 +13,38 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 # Contents
 ## Laser Powder Bed Fusion
+- [Tutorials](#Tutorials)
 - [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
 - [Process Parameters](#Process-Parameters)
 - [Cost Modeling](#Cost-Modeling)
 - [Topology Optimization](#Topology-Optimization)
 - [Heat Exchangers](#Heat-Exchangers)
 - [Qualification](#Qualification)
+- [Machine Learning](#Machine-Learning)
 
-# Design For Additive Manufacturing
+## Tutorials
+-[Introduction to Additive Manufacturing](https://www.epma.com/epma-free-publications/product/introduction-to-additive-manufacturing-brochure), EPMA 2019.
 
-# Process Parameters
+## Design For Additive Manufacturing
+
+## Process Parameters
+- [Critical role of scan strategies on the development of microstructure, texture, and residual stresses during laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S2214860420311647), Nadammal et al., Additive Manufacturing 2020.
+
+- [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
+
 - [Power–Velocity Process Design
 Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
 
-# Qualification
-
+## Qualification
 - [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, Michael, Optical Engineering 2019.
 
 - [A Holistic Process-Flow from Concept to Validation for Additive Manufacturing of Light-Weight, Optimized, Metallic Components Suitable for Space Flight](https://www.researchgate.net/publication/313450327_A_Holistic_Process-Flow_from_Concept_to_Validation_for_Additive_Manufacturing_of_Light-Weight_Optimized_Metallic_Components_Suitable_for_Space_Flight), Orme et al., AIAA 2017.
 
 - [Development, Test, and Evaluation of Additively Manufactured Flight Critical Aircraft Components](https://vtol.org/store/product/development-test-and-evaluation-of-additively-manufactured-flight-critical-aircraft-components-12175.cfm), Kasprzak et al., AHS International 2017.
+
+## Machine Learning
+- [A physics-informed machine learning model for porosity analysis
+in laser powder bed fusion additive manufacturing](https://link.springer.com/content/pdf/10.1007/s00170-021-06640-3.pdf), Liu et al., IJAMT 2021.
+
+- [Machine learning integrated design for additive manufacturing](https://link.springer.com/content/pdf/10.1007/s10845-020-01715-6.pdf), Jiang et al., JIM 2020.
