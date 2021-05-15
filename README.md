@@ -29,9 +29,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 ## Design For Additive Manufacturing
 - [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., Designs 2018.
 - [Application of Topology Optimization and Design for Additive Manufacturing Guidelines on an Automotive Component](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2016/50107/V02AT03A030/258430), Kantareddy et al., ASME 2016.
-- [SAVING WEIGHT WITH METALLIC LATTICE STRUCTURES:
-DESIGN CHALLENGES WITH A REAL-WORLD EXAMPLE 
-](https://utw10945.utweb.utexas.edu/sites/default/files/2016/171-Kantareddy.pdf), Kantaredy et al., ASME 2016. 
+- [Saving Weight with Metallic Lattice Structures: Design Challenges with a Real-World Example](https://utw10945.utweb.utexas.edu/sites/default/files/2016/171-Kantareddy.pdf), Kantaredy et al., ASME 2016. 
 - [(Re)Designing for Part Consolidation: Understanding the Challenges of Metal Additive Manufacturing](https://asmedigitalcollection.asme.org/mechanicaldesign/article/137/11/111404/474890/Re-Designing-for-Part-Consolidation-Understanding), Schmelzle et al., ASME 2015.
 
 ## Process Parameters
@@ -45,8 +43,7 @@ DESIGN CHALLENGES WITH A REAL-WORLD EXAMPLE
 
 - [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
 
-- [AN OPEN-ARCHITECTURE MULTI-LASER RESEARCH PLATFORM FOR
-ACCELERATION OF LARGE-SCALE ADDITIVE MANUFACTURING (ALSAM)](https://utw10945.utweb.utexas.edu/sites/default/files/2019/002%20An%20Open-Architecture%20Multi-Laser%20Research%20Platform.pdf), Carter et al., SFF 2019.
+- [An Open-Architecture Multi-Laser Research Platform for Acceleration of Large-Scale Additive Manufacturing (ALSAM)](https://utw10945.utweb.utexas.edu/sites/default/files/2019/002%20An%20Open-Architecture%20Multi-Laser%20Research%20Platform.pdf), Carter et al., SFF 2019.
 
 - [SLM 125 SINGLE TRACK AND DENSITY CUBE CHARACTERIZATION FOR
 316L STAINLESS STEEL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
@@ -58,7 +55,7 @@ Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Pow
 ## Qualification
 - [Qualification pathways for additively manufactured components for nuclear applications](https://reader.elsevier.com/reader/sd/pii/S0022311521000696?token=1110E904EBE284FB995164B7B9E677E2051E26296767D25C550890C3A676DC95D4F4302555B262ECBE4018057D5F848F&originRegion=us-east-1&originCreation=20210515220918), Hensley et al., JNM 2021.
 
-- [RecommendedGuidanceforCertificationofAMComponent](https://www.aia-aerospace.org/report/certification-of-am-component/), AIA 2020.
+- [Recommended Guidance for Certification of AM Component](https://www.aia-aerospace.org/report/certification-of-am-component/), AIA 2020.
 
 - [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, M., Optical Engineering 2019.
 
