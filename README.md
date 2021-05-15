@@ -12,7 +12,6 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 "[A part made through additive manufacturing](https://www.flickr.com/photos/pennstatelive/15473347580/in/photolist-pzjX9Q-2h3CrHz-2dpeRuG-UYZc2g-hKGhmq-2iQjkxE-2iQmr8j-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-2dSQmpy-YFn4CQ-2fkzWEM-Emd16S-2dtvt4U-2iQm2ta-9NDvLH-ePhvpH-ePhuYa-2dSS7S9-2iLvvHZ-ePtUFd-QPdTc6-9NGabs-9NEwpU-2jncZFS-9NKJWL-9NGBho-9NH11D-CuJM7U-2jne9dA-2hgLiwu-2hgJAyb-2hgLj9w-2jne9bm-Hgpusv-oFzWNQ-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-pjuZbP-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-Qc9KcH-dV2siq-dV2t4S/)," by [Penn State](https://www.flickr.com/photos/pennstatelive/). ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)). 
 
 # Contents
-## Laser Powder Bed Fusion
 - [Start Here](#Start-Here)
 - [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
 - [Process Parameters](#Process-Parameters)
@@ -38,6 +37,9 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Critical role of scan strategies on the development of microstructure, texture, and residual stresses during laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S2214860420311647), Nadammal et al., Additive Manufacturing 2020.
 
 - [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
+
+- [AN OPEN-ARCHITECTURE MULTI-LASER RESEARCH PLATFORM FOR
+ACCELERATION OF LARGE-SCALE ADDITIVE MANUFACTURING (ALSAM)](https://utw10945.utweb.utexas.edu/sites/default/files/2019/002%20An%20Open-Architecture%20Multi-Laser%20Research%20Platform.pdf), Carter et al., SFF 2019.
 
 - [SLM 125 SINGLE TRACK AND DENSITY CUBE CHARACTERIZATION FOR
 316L STAINLESS STEEL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
