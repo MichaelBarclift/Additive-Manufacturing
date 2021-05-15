@@ -28,7 +28,12 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Additive Manufacturing Journal](https://www.sciencedirect.com/journal/additive-manufacturing)
 
 ## Design For Additive Manufacturing
-- [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., AIAA
+- [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., Designs 2018.
+- [Application of Topology Optimization and Design for Additive Manufacturing Guidelines on an Automotive Component](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2016/50107/V02AT03A030/258430), Kantareddy et al., ASME 2016.
+- [SAVING WEIGHT WITH METALLIC LATTICE STRUCTURES:
+DESIGN CHALLENGES WITH A REAL-WORLD EXAMPLE 
+](https://utw10945.utweb.utexas.edu/sites/default/files/2016/171-Kantareddy.pdf), Kantaredy et al., ASME 2016. 
+- [(Re)Designing for Part Consolidation: Understanding the Challenges of Metal Additive Manufacturing](https://asmedigitalcollection.asme.org/mechanicaldesign/article/137/11/111404/474890/Re-Designing-for-Part-Consolidation-Understanding), Schmelzle et al., ASME 2015.
 
 ## Process Parameters
 - [A dimensionless number for predicting universal processing parameter boundaries in metal powder bed additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2213846320301735?dgcid=rss_sd_all), Rankouhi et al., Manufacturing Letters 2021.
