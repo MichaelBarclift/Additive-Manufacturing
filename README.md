@@ -28,6 +28,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Additive Manufacturing Journal](https://www.sciencedirect.com/journal/additive-manufacturing)
 
 ## Design For Additive Manufacturing
+- [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., AIAA
 
 ## Process Parameters
 - [A dimensionless number for predicting universal processing parameter boundaries in metal powder bed additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2213846320301735?dgcid=rss_sd_all), Rankouhi et al., Manufacturing Letters 2021.
@@ -35,6 +36,8 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Development of laser powder bed fusion and heat treatment parameters for additively manufactured Ni51.5Ti48.5 shape memory alloys](https://mountainscholar.org/bitstream/handle/11124/176316/Fuller_mines_0052N_12097.pdf?sequence=1&isAllowed=y), Fuller et al., Colorado School of Mines 2020.
 
 - [Critical role of scan strategies on the development of microstructure, texture, and residual stresses during laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S2214860420311647), Nadammal et al., Additive Manufacturing 2020.
+
+- [Defect structure process maps for laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2214860420309246), Gordon et al., Additive Manufacturing 2020.
 
 - [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
 
@@ -62,3 +65,5 @@ in laser powder bed fusion additive manufacturing](https://link.springer.com/con
 - [Machine learning integrated design for additive manufacturing](https://link.springer.com/content/pdf/10.1007/s10845-020-01715-6.pdf), Jiang et al., JIM 2020.
 
 - [Laser-metal interaction dynamics during additive manufacturing resolved by detection of thermally-induced electron emission](https://www.nature.com/articles/s43246-020-00094-y), DePond et al., Nature 2020.
+
+- [Machine‐Learning‐Based Monitoring of Laser Powder Bed Fusion](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201800136), Yuan et al., AMT 2018.
