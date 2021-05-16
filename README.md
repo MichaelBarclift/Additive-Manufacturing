@@ -21,6 +21,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Heat Exchangers](#Heat-Exchangers)
 - [Qualification](#Qualification)
 - [Machine Learning](#Machine-Learning)
+- [Binder Jetting](#Binder-Jetting)
 
 ## Start Here
 - [Additve Manufacturing Technologies](https://link.springer.com/book/10.1007/978-3-030-56127-7), Gibson et al., Springer 2021.
