@@ -54,6 +54,8 @@ Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Pow
 
 ## Heat Exchangers
 - [Design, Modeling and Characterization of Triply Periodic Minimal Surface Heat Exchangers with Additive Manufacturing](https://utw10945.utweb.utexas.edu/sites/default/files/2019/194%20Design,%20Modeling%20and%20Characterization%20of%20Triply%20Pe.pdf), Peng et al., SFF 2019.
+- [Fabrication and Quality Assessment of Thin Fins Built Using Metal Powder Bed Fusion Additive
+Manufacturing](https://utw10945.utweb.utexas.edu/sites/default/files/2017/Manuscripts/FabricationandQualityAssessmentofThinFinsBu.pdf), Dunbar et al., SFF 2017.
 - [A Review of Recent Advances in Additively
 Manufactured Heat Exchangers](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2982&context=iracc), Klein et al., IRAC 2017.
 - [Experimental comparison of a traditionally built versus additively manufactured aircraft heat exchanger](https://www.researchgate.net/publication/312253958_Experimental_comparison_of_a_traditionally_built_versus_additively_manufactured_aircraft_heat_exchanger), Saltzmann et al., AIAA 2017.
