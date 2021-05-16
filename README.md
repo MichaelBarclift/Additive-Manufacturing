@@ -10,8 +10,6 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 "[A part made through additive manufacturing](https://www.flickr.com/photos/pennstatelive/15473347580/in/photolist-pzjX9Q-2h3CrHz-2dpeRuG-UYZc2g-hKGhmq-2iQjkxE-2iQmr8j-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-2dSQmpy-YFn4CQ-2fkzWEM-Emd16S-2dtvt4U-2iQm2ta-9NDvLH-ePhvpH-ePhuYa-2dSS7S9-2iLvvHZ-ePtUFd-QPdTc6-9NGabs-9NEwpU-2jncZFS-9NKJWL-9NGBho-9NH11D-CuJM7U-2jne9dA-2hgLiwu-2hgJAyb-2hgLj9w-2jne9bm-Hgpusv-oFzWNQ-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-pjuZbP-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-Qc9KcH-dV2siq-dV2t4S/)," by [Penn State](https://www.flickr.com/photos/pennstatelive/). ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)).
 
-"[SuperDracos](https://www.flickr.com/photos/spacex/16789102495/in/photolist-rzAxfp)," by [SpaceX](https://www.flickr.com/photos/spacex/). ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)). 
-
 # Contents
 - [Start Here](#Start-Here)
 - [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
