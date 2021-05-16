@@ -50,7 +50,7 @@ Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
 
 ## Heat Exchangers
--[Design, Modeling and Characterization of Triply Periodic Minimal Surface Heat Exchangers with Additive Manufacturing](https://utw10945.utweb.utexas.edu/sites/default/files/2019/194%20Design,%20Modeling%20and%20Characterization%20of%20Triply%20Pe.pdf), Peng et al., SFF 2019.
+- [Design, Modeling and Characterization of Triply Periodic Minimal Surface Heat Exchangers with Additive Manufacturing](https://utw10945.utweb.utexas.edu/sites/default/files/2019/194%20Design,%20Modeling%20and%20Characterization%20of%20Triply%20Pe.pdf), Peng et al., SFF 2019.
 - [A Review of Recent Advances in Additively
 Manufactured Heat Exchangers](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2982&context=iracc), Klein et al., IRAC 2017.
 - [Experimental comparison of a traditionally built versus additively manufactured aircraft heat exchanger](https://www.researchgate.net/publication/312253958_Experimental_comparison_of_a_traditionally_built_versus_additively_manufactured_aircraft_heat_exchanger), Saltzmann et al., AIAA 2017.
