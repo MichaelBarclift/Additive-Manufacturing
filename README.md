@@ -57,6 +57,11 @@ Optimization Enables Lunar Spacecraft](https://asmedigitalcollection.asme.org/me
 Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
 
+## Heat Exchangers
+- [Experimental comparison of a traditionally built versus additively manufactured aircraft heat exchanger](https://www.researchgate.net/publication/312253958_Experimental_comparison_of_a_traditionally_built_versus_additively_manufactured_aircraft_heat_exchanger), Saltzmann et al., AIAA 2017.
+- [Utilization of Additive Manufacturing for
+Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf), Gobetz et al., ONR 2016.
+
 ## Qualification
 - [Qualification pathways for additively manufactured components for nuclear applications](https://reader.elsevier.com/reader/sd/pii/S0022311521000696?token=1110E904EBE284FB995164B7B9E677E2051E26296767D25C550890C3A676DC95D4F4302555B262ECBE4018057D5F848F&originRegion=us-east-1&originCreation=20210515220918), Hensley et al., JNM 2021.
 
