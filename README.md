@@ -83,3 +83,4 @@ in laser powder bed fusion additive manufacturing](https://link.springer.com/con
 # Binder Jetting
 - [Binder jet 3D printing—Process parameters, materials, properties, modeling, and challenges](https://www.sciencedirect.com/science/article/pii/S0079642520300712), Mostafaei et al., PMS 2021.
 - [Binder jetting of “Hard-to-Weld” high gamma prime nickel-based superalloy RENÉ 108](https://www.sciencedirect.com/science/article/pii/S2214860421000592), Martin et al., Additive Manufacturing 2021.
+- [Modeling of effect of powder spreading on green body dimensional accuracy in additive manufacturing by binder jetting](https://www.sciencedirect.com/science/article/pii/S0032591021001807), Maximenko et al., PT 2021.
