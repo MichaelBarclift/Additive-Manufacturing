@@ -2,7 +2,7 @@
 A curated list of Additive Manufacturing literature, research papers, and presentations that are publicly available and related to Laser Powder Bed Fusion and Metal Binder Jetting processes.
 
 ![test2](https://live.staticflickr.com/2857/9067742195_f63e0e2590_n_d.jpg) ![test](https://live.staticflickr.com/3954/15473347580_05222a2e23_n_d.jpg)
-![test3](https://live.staticflickr.com/65535/50698346813_10db7864c3_n_d.jpg) ![test4](https://live.staticflickr.com/8319/7944788388_f0cbf70152_n_d.jpg)
+![test3](https://live.staticflickr.com/65535/50698346813_10db7864c3_n_d.jpg) ![test4](https://live.staticflickr.com/7287/16789102495_42b6e15287_n_d.jpg)
 
 Image Sources:
 
@@ -12,7 +12,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 "[A part made through additive manufacturing](https://www.flickr.com/photos/pennstatelive/15473347580/in/photolist-pzjX9Q-2h3CrHz-2dpeRuG-UYZc2g-hKGhmq-2iQjkxE-2iQmr8j-2ej7Goc-bm3Dhk-2hgJx2r-J6XXcn-2dSQmpy-YFn4CQ-2fkzWEM-Emd16S-2dtvt4U-2iQm2ta-9NDvLH-ePhvpH-ePhuYa-2dSS7S9-2iLvvHZ-ePtUFd-QPdTc6-9NGabs-9NEwpU-2jncZFS-9NKJWL-9NGBho-9NH11D-CuJM7U-2jne9dA-2hgLiwu-2hgJAyb-2hgLj9w-2jne9bm-Hgpusv-oFzWNQ-qk7DKQ-2dbLSeK-S9hSoc-fCU96g-pjuZbP-2cyE5hT-GDG5bD-2cyE3ar-phKbhP-Qc9KcH-dV2siq-dV2t4S/)," by [Penn State](https://www.flickr.com/photos/pennstatelive/). ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)). 
 
-"[3D Printed Rocket Engine Parts Survive 23 Hot-Fire Tests](https://www.flickr.com/photos/nasamarshall/50698346813/in/photolist-2kf3hcP-2c4UtX1-YFn4CQ-q2CWQ-P88eyL-y4fF5V-2imGe62-jqzg9X-yKwy1Z-jqxJDT-jqzgsx-jqB3Wj-jqxGjT-jqB1Zy-jqB1Po-jqzEoU-jqzeXZ-jqzDaS-jqAYob-jqAXQ7-jqzDCf-jqxG28-yHwnN7-z1WnA4-qsn9nT-yHwoCd-yHC1rM-7yqcDD-jqze1Z-jqzgk8-jqB32o-jqzE19-jqzdei-jqzAUE-j9XLk5-jqB12b-jqB34s-jqzewi-2jgrmAs-jqzC7Q-g53hsX-g53mDy-g53qbb-d747N9-d746uG-d747nE-yDubiy-yHwoeC-6TqEVd-pgLpxU)," by [NASA MSFC](https://www.flickr.com/photos/nasamarshall/). ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).
+"[SuperDracos](https://www.flickr.com/photos/spacex/16789102495/in/photolist-rzAxfp)," by [SpaceX](https://www.flickr.com/photos/spacex/). ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)). 
 
 # Contents
 - [Start Here](#Start-Here)
