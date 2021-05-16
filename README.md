@@ -29,6 +29,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Additive Manufacturing Journal](https://www.sciencedirect.com/journal/additive-manufacturing)
 
 ## Design For Additive Manufacturing
+- [Lightweight Thrust Chamber Assemblies using MultiAlloy Additive Manufacturing and Composite Overwrap](https://www.nasa.gov/sites/default/files/atoms/files/2020_aiaa_rampt_multimetallic_compositechambers-final.pdf), Gardl et al., AIAA 2020.
 - [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., Designs 2018.
 - [Designing for Additive Manufacturing:
 Lightweighting Through Topology
