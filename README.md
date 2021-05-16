@@ -28,8 +28,11 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 ## Design For Additive Manufacturing
 - [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., Designs 2018.
+- [Designing for Additive Manufacturing:
+Lightweighting Through Topology
+Optimization Enables Lunar Spacecraft](https://asmedigitalcollection.asme.org/mechanicaldesign/article/139/10/100905/367029/Designing-for-Additive-Manufacturing), Orme et al., ASME 2017.
 - [Application of Topology Optimization and Design for Additive Manufacturing Guidelines on an Automotive Component](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2016/50107/V02AT03A030/258430), Kantareddy et al., ASME 2016.
-- [Saving Weight with Metallic Lattice Structures: Design Challenges with a Real-World Example](https://utw10945.utweb.utexas.edu/sites/default/files/2016/171-Kantareddy.pdf), Kantareddy et al., ASME 2016. 
+- [Saving Weight with Metallic Lattice Structures: Design Challenges with a Real-World Example](https://utw10945.utweb.utexas.edu/sites/default/files/2016/171-Kantareddy.pdf), Kantareddy et al., ASME 2016.
 - [(Re)Designing for Part Consolidation: Understanding the Challenges of Metal Additive Manufacturing](https://asmedigitalcollection.asme.org/mechanicaldesign/article/137/11/111404/474890/Re-Designing-for-Part-Consolidation-Understanding), Schmelzle et al., ASME 2015.
 
 ## Process Parameters
