@@ -59,6 +59,7 @@ Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Pow
 
 ## Heat Exchangers
 - [Experimental comparison of a traditionally built versus additively manufactured aircraft heat exchanger](https://www.researchgate.net/publication/312253958_Experimental_comparison_of_a_traditionally_built_versus_additively_manufactured_aircraft_heat_exchanger), Saltzmann et al., AIAA 2017.
+- [Introduction of an additively manufactured multi-furcating heat exchanger](https://ieeexplore.ieee.org/abstract/document/7992545), Gerstler,W. and Erno, D., IEEE 2017.
 - [Utilization of Additive Manufacturing for
 Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf), Gobetz et al., ONR 2016.
 
