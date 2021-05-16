@@ -76,3 +76,7 @@ in laser powder bed fusion additive manufacturing](https://link.springer.com/con
 - [Machine learning integrated design for additive manufacturing](https://link.springer.com/content/pdf/10.1007/s10845-020-01715-6.pdf), Jiang et al., JIM 2020.
 - [Laser-metal interaction dynamics during additive manufacturing resolved by detection of thermally-induced electron emission](https://www.nature.com/articles/s43246-020-00094-y), DePond et al., Nature 2020.
 - [Machine‐Learning‐Based Monitoring of Laser Powder Bed Fusion](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201800136), Yuan et al., AMT 2018.
+
+# Binder Jetting
+- [Binder jet 3D printing—Process parameters, materials, properties, modeling, and challenges](https://www.sciencedirect.com/science/article/pii/S0079642520300712), Mostafaei et al., PMS 2021.
+- [Binder jetting of “Hard-to-Weld” high gamma prime nickel-based superalloy RENÉ 108](https://www.sciencedirect.com/science/article/pii/S2214860421000592), Martin et al., Additive Manufacturing 2021.
