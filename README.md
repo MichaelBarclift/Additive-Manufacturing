@@ -45,6 +45,8 @@ Optimization Enables Lunar Spacecraft](https://asmedigitalcollection.asme.org/me
 - [Processing parameters in laser powder bed fusion metal additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0264127520302963), Oliveira et al., Materials & Design 2020.
 - [An Open-Architecture Multi-Laser Research Platform for Acceleration of Large-Scale Additive Manufacturing (ALSAM)](https://utw10945.utweb.utexas.edu/sites/default/files/2019/002%20An%20Open-Architecture%20Multi-Laser%20Research%20Platform.pdf), Carter et al., SFF 2019.
 - [SLM 125 Single Track and Density Cube Characterization for 315L Stainless Steel](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3451&context=theses), Gross et al., California Polytechnic State University, San Luis Obispo 2019.
+- [Additive manufacturing of metallic components – Process, structure and properties](https://www.sciencedirect.com/science/article/pii/S0079642517301172),Debroy et al., PMS 2018.
+- [Dimensionless numbers in additive manufacturing](https://old.matse.psu.edu/modeling/research_files/papers/2017JAP_Mukherjee.pdf), Mukherjee et al., JAP 2017. 
 - [Power–Velocity Process Design
 Charts for Powder Bed Additive
 Manufacturing](https://www.cmu.edu/me/idig/publications/Clymer%20et%20al.,%20Power%20Velocity%20Process%20Design%20Charts%20for%20Powder%20Bed%20Additive%20Manufacturing,%20JMD,%202017.pdf), Clymer et al., ASME 2017.
