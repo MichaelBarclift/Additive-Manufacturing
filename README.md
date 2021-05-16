@@ -1,5 +1,5 @@
 # Additive Manufacturing
-A curated list of Additive Manufacturing literature and research papers related to Laser Powder Bed Fusion and Metal Binder Jetting processes.
+A curated list of Additive Manufacturing literature, research papers, and presentations that are publicly available and related to Laser Powder Bed Fusion and Metal Binder Jetting processes.
 
 ![test2](https://live.staticflickr.com/2857/9067742195_f63e0e2590_n_d.jpg) ![test](https://live.staticflickr.com/3954/15473347580_05222a2e23_n_d.jpg)
 ![test3](https://live.staticflickr.com/65535/50698346813_10db7864c3_n_d.jpg)
