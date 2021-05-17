@@ -64,7 +64,9 @@ Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf
 - [Lightweight Thrust Chamber Assemblies using MultiAlloy Additive Manufacturing and Composite Overwrap](https://www.nasa.gov/sites/default/files/atoms/files/2020_aiaa_rampt_multimetallic_compositechambers-final.pdf), Gardl et al., AIAA 2020.
 - [Technology advancements for channel wall nozzle manufacturing in liquidrocket engines](https://www.sciencedirect.com/science/article/pii/S0094576520302824), Gradl et al., AA 2020.
 - [Introduction to Additive Manufacturing for Propulsion Systems](https://www.researchgate.net/publication/335368147_Introduction_to_Additive_Manufacturing_for_Propulsion_Systems), Gradl et al., AIAA 2019.
+- [Design and Additive Manufacturing Considerations for Liquid Rocket Engine Development](https://www.slideshare.net/NiharPatel12/design-and-additive-manufacturing-considerations-for-liquid-rocket-engine-development-156331197), Patel et al., AIAA 2019.
 - [Additive Manufacturing of Liquid Rocket Engine Combustion Devices: A Summary of Process Developments and Hot-Fire Testing Results](https://www.researchgate.net/publication/326263055_Additive_Manufacturing_of_Liquid_Rocket_Engine_Combustion_Devices_A_Summary_of_Process_Developments_and_Hot-Fire_Testing_Results), Gradl et al., AIAA 2018.
+- [Liquid Rocket Engine Design for Additive Manufacturing](https://www.slideshare.net/MartinVanDenBerghe1/liquid-rocket-engine-design-for-additive-manufacturing?from_action=save), Fessl et al., IAC 2018.
 
 ## Qualification
 - [Qualification pathways for additively manufactured components for nuclear applications](https://reader.elsevier.com/reader/sd/pii/S0022311521000696?token=1110E904EBE284FB995164B7B9E677E2051E26296767D25C550890C3A676DC95D4F4302555B262ECBE4018057D5F848F&originRegion=us-east-1&originCreation=20210515220918), Hensley et al., JNM 2021.
