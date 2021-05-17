@@ -15,7 +15,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Topology Optimization](#Topology-Optimization)
 - [Process Parameters](#Process-Parameters)
 - [Heat Exchangers](#Heat-Exchangers)
-- [Rocketry](#Rocketry)
+- [Rockets](#Rockets)
 - [Qualification](#Qualification)
 - [Machine Learning](#Machine-Learning)
 - [Binder Jetting](#Binder-Jetting)
