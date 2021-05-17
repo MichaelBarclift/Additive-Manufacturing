@@ -12,7 +12,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 
 # Contents
 - [Start Here](#Start-Here)
-- [Design for Additive Manufacturing (DFAM)](#Design-For-Additive-Manufacturing)
+- [Topology Optimization](#Topology Optimization)
 - [Process Parameters](#Process-Parameters)
 - [Heat Exchangers](#Heat-Exchangers)
 - [Rocketry](#Rocketry)
@@ -26,7 +26,7 @@ by [Oak Ridge National Laboratory](https://www.flickr.com/photos/oakridgelab/). 
 - [Introduction to Additive Manufacturing](https://www.epma.com/epma-free-publications/product/introduction-to-additive-manufacturing-brochure), EPMA 2019.
 - [Additive Manufacturing Journal](https://www.sciencedirect.com/journal/additive-manufacturing)
 
-## Design For Additive Manufacturing
+## Topology Optimization
 - [Topology Optimization for Additive Manufacturing as an Enabler for Light Weight Flight Hardware](https://www.mdpi.com/2411-9660/2/4/51), Orme et al., Designs 2018.
 - [Designing for Additive Manufacturing:
 Lightweighting Through Topology
