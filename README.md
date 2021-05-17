@@ -63,6 +63,7 @@ Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf
 ## Rocketry
 - [Lightweight Thrust Chamber Assemblies using MultiAlloy Additive Manufacturing and Composite Overwrap](https://www.nasa.gov/sites/default/files/atoms/files/2020_aiaa_rampt_multimetallic_compositechambers-final.pdf), Gardl et al., AIAA 2020.
 - [Technology advancements for channel wall nozzle manufacturing in liquidrocket engines](https://www.sciencedirect.com/science/article/pii/S0094576520302824), Gradl et al., AA 2020.
+- [Introduction to Additive Manufacturing for Propulsion Systems](https://www.researchgate.net/publication/335368147_Introduction_to_Additive_Manufacturing_for_Propulsion_Systems), Gradl et al., AIAA 2019.
 - [Additive Manufacturing of Liquid Rocket Engine Combustion Devices: A Summary of Process Developments and Hot-Fire Testing Results](https://www.researchgate.net/publication/326263055_Additive_Manufacturing_of_Liquid_Rocket_Engine_Combustion_Devices_A_Summary_of_Process_Developments_and_Hot-Fire_Testing_Results), Gradl et al., AIAA 2018.
 
 ## Qualification
