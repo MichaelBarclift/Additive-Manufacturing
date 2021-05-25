@@ -37,6 +37,7 @@ Optimization Enables Lunar Spacecraft](https://asmedigitalcollection.asme.org/me
 
 ## Process Parameters
 - [A dimensionless number for predicting universal processing parameter boundaries in metal powder bed additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2213846320301735?dgcid=rss_sd_all), Rankouhi et al., Manufacturing Letters 2021.
+- ([Process Optimization and Microstructure Analysis to Understand Laser Powder Bed Fusion of 316L Stainless Steel])(https://www.mdpi.com/2075-4701/11/5/832), Vallejo et al, Metals 2021.
 - [Development of laser powder bed fusion and heat treatment parameters for additively manufactured Ni51.5Ti48.5 shape memory alloys](https://mountainscholar.org/bitstream/handle/11124/176316/Fuller_mines_0052N_12097.pdf?sequence=1&isAllowed=y), Fuller et al., Colorado School of Mines 2020.
 - [Critical role of scan strategies on the development of microstructure, texture, and residual stresses during laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S2214860420311647), Nadammal et al., Additive Manufacturing 2020.
 - [Defect structure process maps for laser powder bed fusion additive manufacturing](https://www.sciencedirect.com/science/article/pii/S2214860420309246), Gordon et al., Additive Manufacturing 2020.
