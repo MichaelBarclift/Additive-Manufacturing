@@ -75,6 +75,7 @@ Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf
 ## Qualification
 - [Qualification pathways for additively manufactured components for nuclear applications](https://reader.elsevier.com/reader/sd/pii/S0022311521000696?token=1110E904EBE284FB995164B7B9E677E2051E26296767D25C550890C3A676DC95D4F4302555B262ECBE4018057D5F848F&originRegion=us-east-1&originCreation=20210515220918), Hensley et al., JNM 2021.
 - [Toward a common laser powder bed fusion qualification test artifact](https://www.sciencedirect.com/science/article/pii/S2214860420311751), Taylor et al., Additive Manufacturing 2021.
+- [Metal powders in additive manufacturing: A review on reusability and recyclability of common titanium, nickel and aluminum alloys](https://www.sciencedirect.com/science/article/pii/S2214860421001822?dgcid=author), Moghimian et al., Additive Manufacturing 2021.
 - [Recommended Guidance for Certification of AM Component](https://www.aia-aerospace.org/report/certification-of-am-component/), AIA 2020.
 - [Development and qualification of additively manufactured parts for space](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-58/issue-01/010801/Development-and-qualification-of-additively-manufactured-parts-for-space/10.1117/1.OE.58.1.010801.full?SSO=1), James O'Brien, M., Optical Engineering 2019.
 - [Methodologies for Qualification of Additively
