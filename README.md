@@ -71,6 +71,7 @@ Aerospace Heat Exchangers](https://apps.dtic.mil/dtic/tr/fulltext/u2/1010878.pdf
 - [Additive Manufacturing of Liquid Rocket Engine Combustion Devices: A Summary of Process Developments and Hot-Fire Testing Results](https://www.researchgate.net/publication/326263055_Additive_Manufacturing_of_Liquid_Rocket_Engine_Combustion_Devices_A_Summary_of_Process_Developments_and_Hot-Fire_Testing_Results), Gradl et al., AIAA 2018.
 - [Liquid Rocket Engine Design for Additive Manufacturing](https://www.slideshare.net/MartinVanDenBerghe1/liquid-rocket-engine-design-for-additive-manufacturing?from_action=save), Fessl et al., IAC 2018.
 - [Design and Testing of Liquid Propellant Injectors for Additive Manufacturing](https://www.eucass.eu/doi/EUCASS2017-306.pdf), Soller et al., EUCASS 2017.
+- [Design and Analysis of a High-Performance Hydrogen Peroxide Thrust Chamber Assembly](https://www.researchgate.net/publication/269208124_Design_and_Analysis_of_a_High-Performance_Hydrogen_Peroxide_Thrust_Chamber_Assembly), Stechmann et al., AIAA 2014.
 
 ## Qualification
 - [Qualification pathways for additively manufactured components for nuclear applications](https://reader.elsevier.com/reader/sd/pii/S0022311521000696?token=1110E904EBE284FB995164B7B9E677E2051E26296767D25C550890C3A676DC95D4F4302555B262ECBE4018057D5F848F&originRegion=us-east-1&originCreation=20210515220918), Hensley et al., JNM 2021.
